@@ -17,8 +17,12 @@ Including another URLconf
 from django.urls import path
 from generator import views
 
+# URL patterns for the generator app
 urlpatterns = [
+    # Home page
     path('', views.home, name='home'),
+    # Password generation page
     path('password/', views.password, name='password'),
+    # About page
     path('about/', views.about, name='about')
 ]
