@@ -29,10 +29,10 @@ To get started with this project, follow the instructions below.
 
 2. Open the local_settings.py file and add the following content:
 
-  SECRET_KEY = '<your-secret-key>'
-
-  Replace <your-secret-key> with your own secret key. Make sure to keep it confidential and do not share it publicly. 
-  Check the file additional_instructions.md to see how can you access your own secret key.
+    SECRET_KEY = '<your-secret-key>'
+   
+    Replace <your-secret-key> with your own secret key. Make sure to keep it confidential and do not share it publicly. 
+    Check the file additional_instructions.md to see how can you access your own secret key.
 
   
 ### Running the Application
