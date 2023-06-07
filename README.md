@@ -31,7 +31,8 @@ To get started with this project, follow the instructions below.
 
   SECRET_KEY = '<your-secret-key>'
 
-  Replace <your-secret-key> with your own secret key. Make sure to keep it confidential and do not share it publicly.
+  Replace <your-secret-key> with your own secret key. Make sure to keep it confidential and do not share it publicly. 
+  Check the file additional_instructions.md to see how can you access your own secret key.
 
   
 ###Running the Application
