@@ -23,7 +23,7 @@ To get started with this project, follow the instructions below.
    cd django3-password-generator
 
 
-###Configuration
+### Configuration
 
 1. Create a local_settings.py file in the password_generator directory.
 
@@ -35,7 +35,7 @@ To get started with this project, follow the instructions below.
   Check the file additional_instructions.md to see how can you access your own secret key.
 
   
-###Running the Application
+### Running the Application
   
  1. Apply the database migrations:
 
@@ -48,7 +48,7 @@ To get started with this project, follow the instructions below.
 3. Open your web browser and access the application at http://localhost:8000.
 
 
-###Usage
+### Usage
   
   Enter your password preferences on the homepage and click "Generate Password" to get a randomly generated password.
 
