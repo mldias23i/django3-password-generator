@@ -50,5 +50,5 @@ To get started with this project, follow the instructions below.
 
 ### Usage
   
-  Enter your password preferences on the homepage and click "Generate Password" to get a randomly generated password.
+    Enter your password preferences on the homepage and click "Generate Password" to get a randomly generated password.
 
